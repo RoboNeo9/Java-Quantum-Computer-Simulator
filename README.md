@@ -1,4 +1,7 @@
 # Java Quantum Computer Simulator
+
+**REQUIRES APACHE COMMONS MATH**
+
 Note: for this to work, all of the files must be in a source directory. The easiest way to do this is to put all of the files in one folder (that is what I do). You do not need to (read: shouldn't) run anything in "Core" or "Gates" (but the files do need to be in the source directory).
 
 Since this is a quantum computer SIMULATOR, everything here will be (necessarily by mathematics) incredibly slow. For n qubits, a matrix of size 2^n x 2^n is created and manipulated which is fine for n<7 or so. After that, the speed problems get incredibly noticeable. Even for lousy things such as superdense coding.
