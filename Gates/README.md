@@ -1,0 +1,1 @@
+Not all gates are implemented of course. It is easy to create your own gate. You can either do it abstractly or by creating your own class. Follow the existing gates' style.

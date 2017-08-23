@@ -1,0 +1,1 @@
+This version of Shor's Algorithm is complete except for the implementation of the exp mod n gate. I am still looking for an efficient representation of it. I may have found one but I have to attempt hardcoding it to be sure.
