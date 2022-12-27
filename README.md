@@ -9,3 +9,5 @@ Since this is a quantum computer SIMULATOR, everything here will be (necessarily
 There may be improvements in speed here and there but _as far as I know_, with this program being able to work at runtime, there aren't signficant speed nor memory enhancements to make.
 
 As you may see, the Shor's Algorithm program is not entirely complete :'(. I was having difficulties finding a good construction of exp mod n that was both general and memory conservative. I believe I have found one. However, since it takes a while to implement, I have decided to first upload this here.
+
+[Dec 2022 Notice]: This project is, for all practical purposes, entirely obsolete—it belongs to 2017. Though technically complete, the project has quite a few design flaws.
